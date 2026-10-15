@@ -1,4 +1,4 @@
-# RAG Financial Multimodal — Enterprise v2.0
+# RAG Financial Multimodal — Enterprise v1.0
 
 > **Production-grade multimodal RAG for financial document intelligence.**
 > Chart understanding · hybrid retrieval · numeric guardrails · multi-tenancy · full observability.
