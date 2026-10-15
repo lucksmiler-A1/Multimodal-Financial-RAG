@@ -1,7 +1,7 @@
 # Terraform — RAG Financial Multimodal Infrastructure
 
 > **Status**: Reference stub. Adapt for your cloud provider (AWS/GCP/Azure).
-
+ 
 ## What this provisions
 - EKS/GKE cluster with auto-scaling node groups
 - RDS PostgreSQL (for pgvector adapter)

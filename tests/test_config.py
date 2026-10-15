@@ -1,5 +1,5 @@
 """Configuration tests — upgraded for v2.0 Pydantic v2 BaseSettings."""
-
+ 
 import pytest
 from pydantic import ValidationError
 

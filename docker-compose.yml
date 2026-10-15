@@ -4,7 +4,7 @@ version: "3.9"
 # RAG Financial Multimodal — Full Stack
 # Usage: docker compose up
 # ─────────────────────────────────────────────────────────────────────────────
-
+ 
 services:
 
   # ── Main API ──────────────────────────────────────────────────────────────

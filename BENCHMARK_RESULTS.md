@@ -1,7 +1,7 @@
 # Benchmark Results
 
 > Last updated: 2024-07 | Environment: AWS m5.xlarge (4 vCPU, 16 GB RAM)
-
+ 
 ## Quality Metrics (Golden Dataset, 22 Financial QA Samples)
 
 | Metric | Score | Threshold | Status |

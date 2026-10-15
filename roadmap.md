@@ -28,7 +28,7 @@
 - [x] Pluggable component system (BaseParser, BaseEmbedder, BaseVectorStore, BaseRetriever, BaseReranker, BaseGenerator) via ABCs and DI
 - [x] Pydantic v2 centralized config with full env-var override, nested sub-configs, feature flags
 - [x] Multi-tenant architecture: per-tenant vector namespaces, rate limits, token quotas, audit trail
-- [x] Async-first pipeline orchestrator with structured concurrency
+- [x] Async-first pipeline orchestrator with structured concurrency 
 
 ### Ingestion
 - [x] Unstructured.io PDF parser with PyPDF2 fallback

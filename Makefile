@@ -12,7 +12,7 @@ TESTS         := tests
 
 .PHONY: help setup dev install test test-unit test-integration test-load \
         lint format typecheck security eval serve docs clean docker-up \
-        docker-down ingest-sample query
+        docker-down ingest-sample query 
 
 # ── Help ──────────────────────────────────────────────────────────────────────
 help:

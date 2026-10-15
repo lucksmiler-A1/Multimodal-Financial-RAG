@@ -2,7 +2,7 @@
 
 All notable changes to RAG Financial Multimodal are documented here.
 This project follows [Semantic Versioning](https://semver.org/).
-
+ 
 ## [2.0.0] - 2024-07
 
 ### Added — Multi-Provider Architecture

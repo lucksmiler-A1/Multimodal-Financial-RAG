@@ -3,7 +3,7 @@ site_description: Enterprise-grade multimodal RAG for financial document analysi
 site_author: RAG Financial Team
 site_url: https://your-org.github.io/rag-financial-multimodal
 repo_url: https://github.com/your-org/rag-financial-multimodal
-repo_name: your-org/rag-financial-multimodal
+repo_name: your-org/rag-financial-multimodal 
 edit_uri: edit/main/docs/
 
 theme:

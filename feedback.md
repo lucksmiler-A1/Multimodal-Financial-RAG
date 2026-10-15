@@ -3,7 +3,7 @@
 This document captures the architectural gap analysis that drove the v2.0 upgrade, and maps each identified weakness to its resolution.
 
 ## Gap → Resolution Map
-
+ 
 ### 1. Layout-Blind Chunking → Layout-Aware Semantic Parser
 
 **Gap:** Raw text extraction flattened tables, split captions from their figures, and allowed multi-page tables to be fragmented into meaningless chunks.

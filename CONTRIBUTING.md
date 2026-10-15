@@ -1,5 +1,5 @@
 # Contributing Guide
-
+ 
 Thank you for your interest in contributing to RAG Financial Multimodal!
 
 ## Quick Start for Contributors

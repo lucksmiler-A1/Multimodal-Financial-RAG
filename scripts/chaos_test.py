@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Chaos engineering tests — verify graceful degradation under failure conditions.
-
+ 
 Tests:
   1. OpenAI rate limit simulation (429) → retry + fallback model
   2. Redis unavailable → cache miss, pipeline continues
